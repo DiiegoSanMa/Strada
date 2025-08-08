@@ -1,0 +1,2 @@
+# Strada
+Strada is a sleek and minimalist iOS app built with SwiftUI that lets users explore, view details, and simulate purchasing high-performance sports cars. Inspired by modern automotive marketplaces like Kavak, it features a smooth carousel of featured cars, detailed views, and a clean, professional design focused on user experience. Organized with a clear Model-View structure, Strada serves as a portfolio project showcasing SwiftUI skills and a solid foundation for future enhancements like search, profiles, and backend integration.
