@@ -7,7 +7,6 @@ Welcome to **Strada**, an iOS app developed with **SwiftUI**, inspired by the mo
 ## 🧭 Quick Navigation
 
 - [🚘 Features](#-features)
-- [🖼️ Screenshots](#-screenshots)
 - [📁 Project Structure](#-project-structure)
 - [🛠️ Technologies Used](#-technologies-used)
 - [🚀 How to Run](#-how-to-run)
@@ -25,16 +24,6 @@ Welcome to **Strada**, an iOS app developed with **SwiftUI**, inspired by the mo
 ✅ Minimalist, professional, and responsive design  
 🔜 Search functionality (in development)  
 🔜 Profile view (in development)
-
----
-
-## 🖼️ Screenshots
-
-> 💡 *Replace these with your own Xcode simulator screenshots.*
-
-| HomeView (Carousel) | Car Details | Car List |
-|---------------------|-------------|----------|
-| ![home](screenshots/home.png) | ![detail](screenshots/detail.png) | ![list](screenshots/list.png) |
 
 ---
 
